@@ -1,0 +1,100 @@
+Commander: Nissa, Vastwood Seer
+
+Creature		x 31
+
+Skyshroud Ranger
+Ulamog, the Ceaseless Hunger
+Scavenging Ooze
+Rampaging Baltohs
+Tireless Tracker
+Kamahl, Fist of Krosa
+Conduiit of Ruin
+Primeval Protector
+Oblivion Seer
+Mwonvuli Beast Tracker
+Waker of the Wilds
+Terastodon
+Liege of the Tangle
+Courser of Kruphix
+Ulvenwald Hydra
+Vinelasher Kudzu
+Sakura-Tribe Elder
+Verdant Sun's Avatar
+Artisan of Kozilek
+Soul of Zendikar
+Reclamation Sage
+Hornet Queen
+Arbor Colossus
+Lifeblood Hydra
+Sakura-Tribe Scout
+World Breaker
+Fierce Empath
+Ramunap Excavator
+Greenwarden of Murasa
+Woodland Bellower
+Thragtusk
+
+Enchantment		x 4	
+
+Sylvan Library
+Zendikar Resurgent
+Sandworm Convergence
+Lignify
+
+Instant			x 2
+
+Beast Within
+Return to the Earth	
+
+Sorcery			x 14
+
+Harmonize
+Cultivate
+Sylvan Scrying
+Kodama's Reach
+Season's Past
+Nissa's Pilgrimage
+Soul's Majesty
+Rampant Growth
+Nature's Lore
+Desert Twister
+Nissa's Revelation
+Into the North
+Explore
+Whirlwind
+
+Planeswalker		x 4
+
+Nissa, Voice of Zendikar
+Garruk, Primal Hunter
+Nissa, Vital Force
+Nissa, Worldwaker
+
+Artifact 		x 6
+
+Spine of Ish Sah
+Nevinyrral's Disk
+Sol Ring
+Seer's Sundial
+Tower of Fortunes
+Perilous Vault
+
+Nonbasic Land		x 6	
+
+Hashep Oasis
+Darksteel Citadel
+Endless Sands
+Mouth of Ronom
+Desert of the Indomitable
+Temple of the False God
+	
+Basic Land		x 32
+	
+2 Snow-Covered Forest
+30 Forest
+
+
+
+
+
+
