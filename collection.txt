@@ -1,8 +1,14 @@
-ORI	Archangel of Tithes		5.87
-ORI	Jace, Vryn's Prodigy		19.17
-ORI	Liliana, Heretical Healer	8.14
-ORI	Liliana, Heretical Healer	8.14
-ORI	Nissa, Vastwood Seer		5.32
-ORI	Forest (269)			0.25
-ORI	Plains (253)			0.25
-ORI	Alhammarret's Archive		8.22
+SET	CARD NAME			QUANTITY	PRICE
+ORI	Archangel of Tithes		1		5.87
+ORI	Jace, Vryn's Prodigy		1		19.17
+ORI	Liliana, Heretical Healer	2		8.14
+ORI	Nissa, Vastwood Seer		1		5.32
+ORI	Forest (269)			1		0.25
+ORI	Plains (253)			1		0.25
+ORI	Alhammarret's Archive		1		8.22
+RIX	Plains				7		0.25
+RIX 	Island				8		0.25
+RIX 	Swamp				6		0.25
+RIX	Mountain			7		0.25
+RIX	Forest				8		0.25
+
