@@ -79,7 +79,7 @@ Seer's Sundial
 Tower of Fortunes
 Perilous Vault
 
-Nonbasic Land		x 6	
+Nonbasic Land		x 7	
 
 Hashep Oasis
 Darksteel Citadel
@@ -87,11 +87,12 @@ Endless Sands
 Mouth of Ronom
 Desert of the Indomitable
 Temple of the False God
+Throne of the High City
 	
-Basic Land		x 32
+Basic Land		x 31
 	
 2 Snow-Covered Forest
-30 Forest
+29 Forest
 
 
 
